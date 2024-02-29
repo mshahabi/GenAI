@@ -1,2 +1,9 @@
 torch
 transformers
+datasets 
+loralib
+sentencepiece
+bitsandbytes 
+accelerate  
+einops
+langchain
